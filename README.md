@@ -46,7 +46,8 @@ Feel free to customize the app by adding real data, integrating APIs, or enhanci
 
 ## Acknowledgments
 
-- Design inspired by Dribbble shot: [Insert Link]
+- Design inspired by Dribbble
+  shot: [https://dribbble.com/shots/18312508-Sports-Live-Score-Betting-App]
 - Built with Flutter
 
 ## Contact
